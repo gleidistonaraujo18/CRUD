@@ -1,7 +1,10 @@
 # Node.js CRUD API
 
 Este repositório contém um simples aplicativo CRUD (Create, Read, Update, Delete) usando Node.js para construir a API REST. O objetivo principal é praticar os aprendizados em Node.js, pois estou estudando essa tecnologia.
-##Obs: esse repositório será atualizado constantemente.
+
+
+
+## Obs: esse repositório será atualizado constantemente.
 
 ## Tecnologias Utilizadas
 
