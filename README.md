@@ -24,13 +24,13 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina 
 1. **Clone este repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/gleidistonaraujo18/CRUD.git
     ```
 
 2. **Acesse o diretório do projeto:**
 
     ```bash
-    cd nome-do-repositorio
+    cd CRUD
     ```
 
 3. **Instale as dependências:**
